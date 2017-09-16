@@ -104,7 +104,7 @@ public interface StudentArrayOperation {
 	 * 
 	 * @throws IllegalArgumentException
 	 */
-	void remove(int index);
+	void remove(int index)
 	
 
 	/**
